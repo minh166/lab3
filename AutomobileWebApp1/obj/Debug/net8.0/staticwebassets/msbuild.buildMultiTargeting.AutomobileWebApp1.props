@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AutomobileWebApp1.props" />
+</Project>
